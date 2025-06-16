@@ -1,4 +1,4 @@
-# 🛍️ Product Review Sentiment Analysis
+# 🛍️ Product Review Sentiment Analysis Using 1D-CNN
 
 A deep learning-based web application that classifies product reviews as **positive** or **negative** using a **1D Convolutional Neural Network (1D CNN)**. The model is deployed using **Flask** with a **Bootstrap 5 + JavaScript** frontend for real-time sentiment prediction.
 
