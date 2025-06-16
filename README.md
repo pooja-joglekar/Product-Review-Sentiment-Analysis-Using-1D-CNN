@@ -78,3 +78,7 @@ A deep learning-based web application that classifies product reviews as **posit
 **Pooja Laxman Joglekar**  
 MSc.IT | IT Student    
 LinkedIn: (www.linkedin.com/in/pooja-joglekar)
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).  
